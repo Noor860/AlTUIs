@@ -1,1 +1,1 @@
-# AlTUIs
+Registration page and login page
